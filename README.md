@@ -30,12 +30,14 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [**AgentVerse**](https://github.com/Peiiii/AgentVerse) | Multi-Agent Collaboration Platform ✨ | ![Stars](https://img.shields.io/github/stars/Peiiii/AgentVerse?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**NextClaw**](https://github.com/Peiiii/nextclaw) | A lighter, easier-to-use OpenClaw — one command, built-in UI | ![Stars](https://img.shields.io/github/stars/Peiiii/nextclaw?style=flat-square&color=6C63FF&labelColor=1a1b27) |
 | [**skild**](https://github.com/Peiiii/skild) | The npm for Agent Skills — Discover, install & publish AI Agent Skills | ![Stars](https://img.shields.io/github/stars/Peiiii/skild?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**AgentVerse**](https://github.com/Peiiii/AgentVerse) | Multi-Agent Collaboration Platform ✨ | ![Stars](https://img.shields.io/github/stars/Peiiii/AgentVerse?style=flat-square&color=6C63FF&labelColor=1a1b27) |
 | [**gitary**](https://github.com/Peiiii/gitary) | Notion-like editing + Excalidraw & Draw.io for your Git repos | ![Stars](https://img.shields.io/github/stars/Peiiii/gitary?style=flat-square&color=6C63FF&labelColor=1a1b27) |
 | [**openclaw-manager**](https://github.com/Peiiii/openclaw-manager) | GUI-based Installation & Configuration Tool for OpenClaw | ![Stars](https://img.shields.io/github/stars/Peiiii/openclaw-manager?style=flat-square&color=6C63FF&labelColor=1a1b27) |
-| [**nextclaw**](https://github.com/Peiiii/nextclaw) | A lighter, easier-to-use OpenClaw — one command, built-in UI | ![Stars](https://img.shields.io/github/stars/Peiiii/nextclaw?style=flat-square&color=6C63FF&labelColor=1a1b27) |
 | [**EchoNote**](https://github.com/Peiiii/EchoNote) | AI Powered Note Taking | ![Stars](https://img.shields.io/github/stars/Peiiii/EchoNote?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**zenmark-editor**](https://github.com/Peiiii/zenmark-editor) | Zen-mode Markdown Editor | ![Stars](https://img.shields.io/github/stars/Peiiii/zenmark-editor?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**deploy-your-app (GemiGo)**](https://github.com/Peiiii/deploy-your-app) | One-click deployment for your applications | ![Stars](https://img.shields.io/github/stars/Peiiii/deploy-your-app?style=flat-square&color=6C63FF&labelColor=1a1b27) |
 
 ---
 
