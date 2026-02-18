@@ -28,44 +28,14 @@
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Peiiii/AgentVerse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peiiii&repo=AgentVerse&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Peiiii/skild">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peiiii&repo=skild&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Peiiii/gitary">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peiiii&repo=gitary&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Peiiii/nextclaw">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peiiii&repo=nextclaw&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Peiiii/openclaw-manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peiiii&repo=openclaw-manager&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Peiiii/EchoNote">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peiiii&repo=EchoNote&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**AgentVerse**](https://github.com/Peiiii/AgentVerse) | Multi-Agent Collaboration Platform ✨ | ![Stars](https://img.shields.io/github/stars/Peiiii/AgentVerse?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**skild**](https://github.com/Peiiii/skild) | The npm for Agent Skills — Discover, install & publish AI Agent Skills | ![Stars](https://img.shields.io/github/stars/Peiiii/skild?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**gitary**](https://github.com/Peiiii/gitary) | Notion-like editing + Excalidraw & Draw.io for your Git repos | ![Stars](https://img.shields.io/github/stars/Peiiii/gitary?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**openclaw-manager**](https://github.com/Peiiii/openclaw-manager) | GUI-based Installation & Configuration Tool for OpenClaw | ![Stars](https://img.shields.io/github/stars/Peiiii/openclaw-manager?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**nextclaw**](https://github.com/Peiiii/nextclaw) | A lighter, easier-to-use OpenClaw — one command, built-in UI | ![Stars](https://img.shields.io/github/stars/Peiiii/nextclaw?style=flat-square&color=6C63FF&labelColor=1a1b27) |
+| [**EchoNote**](https://github.com/Peiiii/EchoNote) | AI Powered Note Taking | ![Stars](https://img.shields.io/github/stars/Peiiii/EchoNote?style=flat-square&color=6C63FF&labelColor=1a1b27) |
 
 ---
 
@@ -85,12 +55,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peiiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peiiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peiiii&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peiiii&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peiiii&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peiiii&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Peiiii&theme=tokyonight&utcOffset=8" />
 </p>
 
 ---
